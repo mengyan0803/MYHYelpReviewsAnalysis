@@ -10,3 +10,13 @@ There are three datasets used fromt the Yelp Dataset, the business, review and u
 To start with the work, a Spark Cluster is created on AWS EMR with the follwoing configuration.
 
 
+
+![image](https://user-images.githubusercontent.com/57573785/80927489-48778c00-8d6c-11ea-8a87-0689504c80bb.png)
+
+
+Then, a new Jupyter Notebook is also created to run on the Cluster with the following configuration.
+
+
+
+
+
